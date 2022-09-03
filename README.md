@@ -71,3 +71,4 @@ Note that the image is devoid of any vehicles.
 1. http://statweb.stanford.edu/~tibs/stat315a/LECTURES/em.pdf
 2. https://medium.com/clustering-with-gaussian-mixture-model/clustering-with-gaussian-mixture-model-c695b6cd60da
 3. Matlab toolbox for the video 'traffic.avi'
+"# Background_extraction_from_video" 
